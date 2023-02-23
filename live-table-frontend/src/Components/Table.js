@@ -93,10 +93,6 @@ const Table = (props) => {
         className="table-sm"
         />
 
-        <button onClick={()=>{
-            console.log(filterRange,filterBool)
-         }
-        }> TableData </button>
     </div>
   </>
   );
